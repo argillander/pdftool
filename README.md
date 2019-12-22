@@ -8,4 +8,4 @@ Tired of having to upload your private .pdf-documents to online service just to 
 python3 pdftool
 ```
 
-...or by running the packed (https://github.com/argillander/pdftool/tree/master/dist)[Windows binary].
+...or by running the packed (Windows binary)[https://github.com/argillander/pdftool/tree/master/dist].
