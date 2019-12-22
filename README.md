@@ -5,7 +5,7 @@ Tired of having to upload your private .pdf-documents to online service just to 
 ## Usage
 
 ```
-python3 pdftool
+python3 pdftool.py
 ```
 
 ...or by running the packed [Windows binary](https://github.com/argillander/pdftool/tree/master/dist).
